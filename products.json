@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "price": "$699",
+    "image": "img/smartphone.jpeg",
+    "description": "A powerful and modern smartphone."
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "price": "$129",
+    "image": "img/headphone.jpg",
+    "description": "Wireless headphones with noise cancellation."
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": "$999",
+    "image": "img/laptop.jpg",
+    "description": "Lightweight laptop with high performance."
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": "$199",
+    "image": "img/smartwatch.jpg",
+    "description": "Track fitness and stay connected on the go."
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": "$89",
+    "image": "img/speaker.png",
+    "description": "Portable speaker with high-quality sound."
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": "$59",
+    "image": "img/mouse.jpeg",
+    "description": "Precision mouse for competitive gaming."
+  },
+  {
+    "id": 7,
+    "name": "Keyboard",
+    "price": "$49",
+    "image": "img/keyboard.jpeg",
+    "description": "Ergonomic mechanical keyboard."
+  },
+  {
+    "id": 8,
+    "name": "Monitor",
+    "price": "$249",
+    "image": "img/monitor.jpg",
+    "description": "27-inch Full HD monitor with vivid colors."
+  },
+  {
+    "id": 9,
+    "name": "External Hard Drive",
+    "price": "$89",
+    "image": "img/harddrive.jpg",
+    "description": "1TB external drive for backup and storage."
+  },
+  {
+    "id": 10,
+    "name": "Webcam",
+    "price": "$79",
+    "image": "img/webcam.jpg",
+    "description": "High-definition webcam for video calls."
+  },
+  {
+    "id": 11,
+    "name": "Tablet",
+    "price": "$399",
+    "image": "img/tablet.jpg",
+    "description": "Portable tablet for work and play."
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charger",
+    "price": "$39",
+    "image": "img/charger.jpg",
+    "description": "Fast wireless charging pad."
+  },
+  {
+    "id": 13,
+    "name": "Drone",
+    "price": "$499",
+    "image": "img/drone.jpg",
+    "description": "Compact drone with HD camera."
+  },
+  {
+    "id": 14,
+    "name": "VR Headset",
+    "price": "$299",
+    "image": "img/vr.jpeg",
+    "description": "Immersive virtual reality experience."
+  }
+]
